@@ -1,4 +1,4 @@
-baseURL = "https://www.maljames.com"
+baseURL = ""
 title = "Mallet James"
 theme = "erblog"
 paginate = 3
