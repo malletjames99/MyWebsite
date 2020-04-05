@@ -12,7 +12,7 @@ footnoteReturnLinkContents = "^"
     portrait = "ProfilePicZoomed3.png"
     description = "PSU Data Science '21"
     bio = """
-    <p> My name is Mallet James and I am a junior studying Applied Data Science at Penn State University. My greatest interest in the field of Data Science is sports analytics and the application of statistics to sports. I currently serve as the president and founder of the <a href="https://sites.psu.edu/ssaclub/">Penn State Sports Analytics Club</a> and contribute to <a href="https://stathouseanalytics.com/stats/team_rankings/2020_1_Men/">StatHouse Analytics</a>, helping with development and various data science taks in the context of college basketball. I also work alongside Penn State Track & Field providing help with data analysis.</p>
+    <p> My name is Mallet James and I am a junior studying Applied Data Science at Penn State University. My greatest interest in the field of Data Science is sports analytics and the application of statistics to sports. I currently serve as the president and founder of the <a href="https://sites.psu.edu/ssaclub/"><font color="blue">Penn State Sports Analytics Club</font></a> and contribute to <a href="https://stathouseanalytics.com/stats/team_rankings/2020_1_Men/"><font color="blue">StatHouse Analytics</font></a>, helping with development and various data science taks in the context of college basketball. I also work alongside Penn State Track & Field providing help with data analysis.</p>
     <br />
     <p>I plan to use this website to post any data exploration that I have conducted on the side. My main interests in the area of sports analytics include basketball, baseball, and golf. I also enjoy predictive analytics and statistical modeling.</p>
     """
@@ -23,14 +23,8 @@ footnoteReturnLinkContents = "^"
 [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "/"
     weight = 10
-
-# [[menu.main]]
-#     identifier = "zone"
-#     name = "Zone"
-#     url = "/zone/"
-#     weight = 10
 
 [[menu.footer]]
     identifier = "home"
@@ -41,7 +35,7 @@ footnoteReturnLinkContents = "^"
 [[menu.footer]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "/"
     weight = 2
 
 [taxonomies]
@@ -55,7 +49,7 @@ series = "series"
     weight = 2
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/malletjames99"
     name = "github"
     weight = 2
 
