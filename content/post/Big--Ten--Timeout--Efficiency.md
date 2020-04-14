@@ -1,5 +1,6 @@
 ---
 title: "Big Ten Timeout Efficiency"
+description: "Evaluating Big Ten men's basketball efficiency out of timeouts"
 date: 2020-04-14T11:19:48-04:00
 draft: false
 --- 
