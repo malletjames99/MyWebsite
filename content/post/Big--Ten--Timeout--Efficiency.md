@@ -52,4 +52,12 @@ In Division I college basketball, coaches and teams sink or swim based on sound 
 
 Keep pleading with your coach to call that timeout through your TV. Be aware, though, that what he is scribbling on that white board in the huddle could be making or breaking your team’s season.
 
-There is a lot to build on in this analysis such as expanding to other conferences, taking a look at past years, and maybe most interestingly taking a look to see if there are any patterns in the production of specific coaches from year to year out of elected timeouts. Adding in production out of all timeouts might also help the analysis with a larger number of samples to pull from. If you have any questions or suggestions please email me at malletjames99@gmail.com.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+### Next Steps
+
+- Timeout Efficiency Analysis of other D1 conferences in the 2019-20 season
+- Historical trends in timeout efficiency for notable D1 teams and coaches
+- Expanding timeout efficiency to all stoppages in play
+
+&nbsp;
