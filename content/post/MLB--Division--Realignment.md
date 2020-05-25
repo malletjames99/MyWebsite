@@ -1,7 +1,7 @@
 ---
 title: "MLB Division Optimization for Minimal Travel in 2020 Season"
 description: "Finding the optimal five team division combination to minimize travel in order to play during the pandemic"
-date: 2020-05-24T11:19:48-04:00
+date: 2020-05-25T11:04:48-04:00
 draft: false
 --- 
 The negotiations between MLB team owners and the MLBPA have ramped up in recent days, with both sides starting to exchange proposals for bringing professional baseball back in the midst of the COVID-19 pandemic. Regardless of how the economics and COVID testing protocols shake out in those agreements, everyone knows that the 2020 MLB season will be unlike any other not just in recent memory, but in all of baseball history. Fan-less stadiums seem to be a forgone conclusion. Same with the universal DH and an expanded playoffs. Changes to the league’s schedule and structure have had a few more sticking points, with many different proposals still on the table.
