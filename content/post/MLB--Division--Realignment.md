@@ -26,19 +26,19 @@ MLB’s three 10-team division alignment is listed in the table below. The secon
 
 | Division	| One-Way Miles | Avg. One Way Miles/Matchup | Avg. One-Way Miles/Team |
 |-----------|---------------|----------------------------|-------------------------|
-|East	    | 23,342	    | 518.7	                     | 2,334.2                 |
-|Central	| 17,807	    | 395.7	                     | 1,780.7                 |
-|West	    | 37,317	    | 829.3	                     | 3,731.7                 |
-|TOTAL	    | 78,466	    | 581.2	                     | 2,615.5                 |
+|East	    | 23,342	    | 519	                     | 2,334                   |
+|Central	| 17,807	    | 396	                     | 1,781                   |
+|West	    | 37,317	    | 829	                     | 3,732                   |
+|TOTAL	    | 78,466	    | 581	                     | 2,616                   |
 
 ### Full Season
 
 | Division	| Full Season One-Way Miles (108 Games)	| Avg. One-Way Miles/Team |
 |-----------|---------------------------------------|-------------------------|
-|East	    | 93,369     	                        | 9,336.8                 |
-|Central	| 71,228	                            | 7,122.8                 |
-|West	    | 149,268	                            | 14,926.8                |
-|TOTAL	    | 313,864	                            | 10,462.1                |
+|East	    | 93,369     	                        | 9,337                   |
+|Central	| 71,228	                            | 7,123                   |
+|West	    | 149,268	                            | 14,927                  |
+|TOTAL	    | 313,864	                            | 10,462                  |
  
 
 Most of the East division is in the northeast, but needs to make the long trips to Florida to play the Rays and Marlins. The Central is fairly compact outside of the trip to Atlanta. The West, though, needs to deal with multiple long trips into relative no man’s land: Seattle, Colorado, and the two Texas teams are quite a ways away from the five California teams plus Arizona. All told, each team would travel around 10,500 miles from their home ballpark during the course of a 108 game season.
@@ -62,25 +62,25 @@ What if major league baseball wanted to keep their current division alignment? T
 
 | Division	| One-Way Miles | Avg. One Way Miles/Matchup | Avg. One-Way Miles/Team |
 |-----------|---------------|----------------------------|-------------------------|
-|AL East	| 6,032		    | 603.2                      | 1,206.4                 |
-|AL Central	| 4,329 	    | 432.9	                     | 865.8                   |
-|AL West	| 11,455	    | 1,145.5	                 | 2,291.0                 |
-|NL East	| 5,993	        | 599.3	                     | 1,198.6                 |
-|NL Central	| 3,226	        | 322.6	                     | 645.2                   |
-|NL West	| 5,423 	    | 542.3	                     | 1,084.6                 |
-|TOTAL	    | 36,458	    | 607.6	                     | 1,215.3                 |
+|AL East	| 6,032		    | 603                        | 1,206                   |
+|AL Central	| 4,329 	    | 433	                     | 866                     |
+|AL West	| 11,455	    | 1,146  	                 | 2,291                   |
+|NL East	| 5,993	        | 599	                     | 1,199                   |
+|NL Central	| 3,226	        | 323	                     | 645                     |
+|NL West	| 5,423 	    | 542	                     | 1,085                   |
+|TOTAL	    | 36,458	    | 608	                     | 1,215                   |
 
 ### Full Season
 
 | Division	| Full Season One-Way Miles (108 Games)	| Avg. One-Way Miles/Team |
 |-----------|---------------------------------------|-------------------------|
-|AL East	| 54,288		                        | 10,857.6                |
-|AL Central	| 38,961 	                            | 7,792.2	              |
-|AL West	| 103,095	                            | 20,619.0	              |
-|NL East	| 53,937	                            | 10,787.4                |
-|NL Central	| 29,034	                            | 5,806.8                 |
-|NL West	| 48,807 	                            | 9,761.4	              |
-|TOTAL	    | 328,122	                            | 10,937.4	              |
+|AL East	| 54,288		                        | 10,858                  |
+|AL Central	| 38,961 	                            | 7,792 	              |
+|AL West	| 103,095	                            | 20,619 	              |
+|NL East	| 53,937	                            | 10,787                  |
+|NL Central	| 29,034	                            | 5,807                   |
+|NL West	| 48,807 	                            | 9,761 	              |
+|TOTAL	    | 328,122	                            | 10,937 	              |
 
 MLB’s 3 x 10 alignment saves about 500 miles per team compared to the standard 6 x 5 alignment over the course of a proposed 108 game season.
 
@@ -106,25 +106,25 @@ I have settled on the following solution to minimize travel and keep the 5-team 
 
 | Division	| One-Way Miles | Avg. One Way Miles/Matchup | Avg. One-Way Miles/Team |
 |-----------|---------------|----------------------------|-------------------------|
-|Northeast	| 1,617 	    | 161.7                      | 323.3                   |
-|Great Lakes| 2,277 	    | 227.7	                     | 455.5                   |
-|Midwest	| 2,160	        | 216.0	                     | 432.1                   |
-|South  	| 6,668         | 666.8	                     | 1,333.7                 |
-|Northwest	| 9,605	        | 960.5	                     | 1,921.1                 |
-|West   	| 2,559 	    | 255.9	                     | 511.7                   |
-|TOTAL	    | 24,886	    | 414.8	                     | 829.5                   |
+|Northeast	| 1,617 	    | 162                        | 323                     |
+|Great Lakes| 2,277 	    | 228	                     | 456                     |
+|Midwest	| 2,160	        | 216	                     | 432                     |
+|South  	| 6,668         | 667	                     | 1,334                   |
+|Northwest	| 9,605	        | 961	                     | 1,921                   |
+|West   	| 2,559 	    | 256	                     | 512                     |
+|TOTAL	    | 24,886	    | 415	                     | 830                     |
 
 ### Full Season
 
 | Division	| Full Season One-Way Miles (108 Games)	| Avg. One-Way Miles/Team |
 |-----------|---------------------------------------|-------------------------|
-|Northeast	| 14,553		                        | 2,910.6                 |
-|Great Lakes| 20,493 	                            | 4,098.6	              |
-|Midwest	| 19,440	                            | 3,888.0	              |
-|South   	| 60,012	                            | 12,002.4                |
-|Northwest	| 86,445	                            | 17,289.0                |
-|West   	| 23,031 	                            | 4,606.2	              |
-|TOTAL	    | 223,974	                            | 7,465.8	              |
+|Northeast	| 14,553		                        | 2,911                   |
+|Great Lakes| 20,493 	                            | 4,099  	              |
+|Midwest	| 19,440	                            | 3,888  	              |
+|South   	| 60,012	                            | 12,002                  |
+|Northwest	| 86,445	                            | 17,289                  |
+|West   	| 23,031 	                            | 4,606 	              |
+|TOTAL	    | 223,974	                            | 7,466 	              |
 
 If the focus is to cut down on travel time while maintaining the current MLB structure, nearly 100,000 miles of one-way travel could be saved when compared to the three division proposal. It is very clear that the travel burden would not be particularly spread evenly among every team; the South and the “Northwest” division would travel 3-4 times as much as the next lowest division but lots of potentially unnecessary travel would be saved. To increase schedule variety in this structure, limited inter-division play based on closest neighboring division teams, as in the 3 x 10 structure, could be implemented.
 
@@ -134,7 +134,7 @@ If the focus is to cut down on travel time while maintaining the current MLB str
 
 To find the mileages in the analysis, I used the latitude and longitude coordinates for each ballpark and found the straight-line distances between each of the major league ballparks. There were originally 870 team to team mileages calculated, all 29 opponents for each of the 30 teams. 
 
-Next, I found every single division combination (30 choose 5)  and broke each of those down into their 10 possible division matchups (5 choose 2) and merged each matchup with its corresponding mileage difference. I added each of the 10 mileages generated to create an intra-division one-way mileage sum and used that value to determine what division formats would be optimal from a purely distance perspective.
+Next, I found every single division combination (30 choose 5) and broke each of those down into their 10 possible division matchups (5 choose 2) and merged each matchup with its corresponding mileage difference. I added each of the 10 mileages generated to create an intra-division one-way mileage sum and used that value to determine what division formats would be optimal from a purely distance perspective.
 
 The optimized 6 x 5 solution was determined by looking at a K-means generated cluster plot and the clusters determined by K-means along with the location of the latitude, longitude coordinates to determine which teams would make the most sense to be grouped together. K-means determines the number of k clusters but does not create clusters of equal size. I used the plot below, along with the division combination mileage dataset, to perform some trial and error and logically work through what division combinations would make the most sense with minimal distance being the only requirement.
 
