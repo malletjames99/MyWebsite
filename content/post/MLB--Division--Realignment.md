@@ -84,7 +84,7 @@ What if major league baseball wanted to keep their current division alignment? T
 
 MLB’s 3 x 10 alignment saves about 500 miles per team compared to the standard 6 x 5 alignment over the course of a proposed 108 game season.
 
-One option that I have explored to try to keep the normal 6 divisions of 5 teams that we have all grown accustomed to since the Astros switched from the NL Central to AL West in 2013 is to significantly decrease travel within divisions by realigning NL and AL teams to divisions that strictly reflect their region of the nation and Canada. 
+One option that I have explored to try to keep the normal 6 divisions of 5 teams is to significantly decrease travel within divisions by realigning NL and AL teams to divisions that strictly reflect their region of the nation and Canada.
 
 I have settled on the following solution to minimize travel and keep the 5-team division structure that is important to the game. The realignment would allow for some semblance of normalcy in the 2020 season and help to reduce the spread of the COVID-19 virus.
 
