@@ -107,10 +107,10 @@ I have settled on the following solution to minimize travel and keep the 5-team 
 | Division	| One-Way Miles | Avg. One Way Miles/Matchup | Avg. One-Way Miles/Team |
 |-----------|---------------|----------------------------|-------------------------|
 |Northeast	| 1,617 	    | 161.7                      | 323.3                   |
-|Great Lakes| 2,277 	    | 227.7	                     | 865.8                   |
-|Midwest	| 2,160	        | 216.0	                     | 2,291.0                 |
-|South  	| 6,668         | 666.8	                     | 1,198.6                 |
-|Northwest	| 9,605	        | 960.5	                     | 645.2                   |
+|Great Lakes| 2,277 	    | 227.7	                     | 455.5                   |
+|Midwest	| 2,160	        | 216.0	                     | 432.1                   |
+|South  	| 6,668         | 666.8	                     | 1,333.7                 |
+|Northwest	| 9,605	        | 960.5	                     | 1,921.1                 |
 |West   	| 2,559 	    | 255.9	                     | 511.7                   |
 |TOTAL	    | 24,886	    | 414.8	                     | 829.5                   |
 
