@@ -12,7 +12,7 @@ Momentum is gathering for teams to play games in their home ballparks, but with 
 
 MLB’s three 10-team division alignment is listed in the table below. The second table lists the total distance traveled for every team in the division to play every other team in the division once (for a total of 45 matchups). The third table shows the total distance traveled over a 108 game season, which each team plays four 3-game series against each division opponent.
 
-## New Proposed 3 Division Alignment
+## New Proposed Three Division Alignment
 
 ### Teams
 
@@ -128,7 +128,7 @@ I have settled on the following solution to minimize travel and keep the 5-team 
 
 If the focus is to cut down on travel time while maintaining the current MLB structure, nearly 100,000 miles of one-way travel could be saved when compared to the three division proposal. It is very clear that the travel burden would not be particularly spread evenly among every team; the South and the “Northwest” division would travel 3-4 times as much as the next lowest division but lots of potentially unnecessary travel would be saved. There would be a lack of variety in matchups in this scenario compared to the 10 team divisions but there could easily be a plan put in place for limited inter-division play based on closest neighboring division teams where not all 108 games would have to come from teams in the same division.
 
-[In a normal MLB season division opponents play each other 76 times](https://gothamsn.com/is-it-time-to-revisit-the-mlb-playoff-structure-9ea4e801efae), depending on how many games are in each series this would mean that teams travel to division opponents and complete the cycle of each division opponent playing each other once anywhere between 24-26 times a season. When comparing the optimized 6 x 5 division setup to the current division alignment this new setup would save in the neighborhood of 300,900 miles of total division travel over the course of a standard MLB season.
+[In a normal MLB season division opponents play each other 76 times](https://gothamsn.com/is-it-time-to-revisit-the-mlb-playoff-structure-9ea4e801efae), depending on how many games are in each series this would mean that teams travel to division opponents and complete the cycle of each division opponent playing each other once anywhere between 24-26 times a season. When comparing the optimized 6 x 5 division setup to the current division alignment this new setup would save in the neighborhood of 300,900 miles of single division travel over the course of a standard MLB season. 1,805,232 total travel miles would be saved in division play alone across all of major league baseball.
 
 # Methodology
 
@@ -152,7 +152,7 @@ Keeping this in mind, I began approaching the west by considering the 5 teams th
 
 Determining how the West division played out left us with 5 teams. I thought at first that I would need to backtrack given that those 5 teams included Seattle, Arizona, Colorado, Minnesota, and Kansas City but when seeing a total mileage of 9605 I was quite happy with how it played out. Even though 9605 miles is by far the largest travel burden of any division, a division with Seattle will always require the most travel. It is almost 2000 miles less in total than teams are required to travel in the current AL West to play each other one time. The optimal 5 team division for the Mariners would include SEA-SFG-OAK-LAD-LAA which would create a division that would require 4760 miles of travel. That would leave SDP-ARI-COL-KCR-MIN as kind of the leftover 5 team division and an 8569-mile travel requirement. This creates a smaller maximum division mileage that also doesn't include Seattle but also adds a little over 1000 miles to the larger picture which would not create an optimal scenario.
 
-The new 6 x 5 division structure totals 24,886 miles each time division opponents play each other one time. In the current division landscape 36,458 miles of total travel are required when each division plays each other one time. The new division alignment structure would save 11,572 miles each cycle of division opponents play each other. 
+The new 6 x 5 division structure totals 24,886 miles each time division opponents play each other one time. In the current division landscape 36,458 miles of total travel are required when each division plays each other one time. The new division alignment structure would save 11,572 miles each cycle of division opponents playing each other. 
 
 Due to the COVID-19 pandemic the season will almost certainly be shortened in some way. There is no doubt that this new division setup will save a large amount of travel and reduce the spread of the virus much more effectively than we would see in the normal 5 team division setup and possibly the newly proposed 10 team division alignment. 
 
