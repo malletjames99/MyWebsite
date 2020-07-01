@@ -95,7 +95,9 @@ Our first article in the series of Perfection Ranked will include the most likel
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ### References
 
-Baseball Almanac. Retrieved from http://www.baseball-almanac.com/
+Baseball Almanac. Retrieved from http://www.baseball-almanac.com/   
+
 Baseball Reference. Retrieved from http://www.baseball-reference.com/
+
 Bradley, R. A. and Terry, M. E. (1952). Rank Analysis of Incomplete Block Designs: I. The Method of    
    Paired Comparisons. Biometrika 39 324-345.
