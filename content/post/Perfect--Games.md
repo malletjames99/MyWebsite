@@ -1,8 +1,8 @@
 ---
 title: "Perfection Ranked: Greatest Perfect Games"
 description: "Ranking the likelihood of MLB perfect games using the Bradley-Terry method"
-date: 2020-06-29T10:30:48-04:00
-draft: true
+date: 2020-06-30T21:40:48-04:00
+draft: false
 --- 
 ![Perfect Game Probabilities](https://i.imgur.com/g7y7biY.png)
 
