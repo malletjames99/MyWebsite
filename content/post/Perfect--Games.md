@@ -6,8 +6,6 @@ draft: false
 --- 
 ![Perfect Game Probabilities](https://i.imgur.com/g7y7biY.png)
 
-### Ranking the likelihood of MLB perfect games using the Bradley-Terry method
-
 #### by Mallet James, Kyle Kroboth, and Andy Wiesner
 
 Since 1900 approximately 200,000 major league baseball games have been played including playoffs through the 2019 season.  During that time, 21 perfect games have been thrown, an incredibly rare feat. Pitchers with a perfect game on their resume range from the unqualified legends – Sandy Koufax and Cy Young – to the otherwise anonymous – Len Barker, Philip Humber, and Dallas Braden. 
@@ -46,18 +44,18 @@ Table 1 shows the batting lineup, how many at-bats each player had during the ga
 
 #### Table 1: Probability batter does not reach base using OBP
 
-|Lineup	            |AB	   |OBP	    |P(X = 0)  |
-|-------------------|------|--------|----------|
-|Topsy Hartsel	    | 1	   | 0.347	| 0.653000 |
-|Danny Hoffman	    | 2	   | 0.329	| 0.450241 |
-|Ollie Pickering	| 3	   | 0.299	| 0.344471 |
-|Harry Davis	    | 3	   | 0.350	| 0.274625 |
-|Lave Cross	        | 3	   | 0.310	| 0.328509 |
-|Socks Seybold	    | 3	   | 0.351	| 0.273359 |
-|Danny Murphy	    | 3	   | 0.320	| 0.314432 |
-|Monte Cross	    | 3	   | 0.266	| 0.395447 |
-|Ossee Schrecongost	| 3	   | 0.199	| 0.513922 |
-|Rube Waddell	    | 3	   | 0.164	| 0.584277 |
+|Lineup	            |AB	   |OBP	    |P(X = 0)|
+|-------------------|------|--------|--------|
+|Topsy Hartsel	    | 1	   | 0.347	| 0.6530 |
+|Danny Hoffman	    | 2	   | 0.329	| 0.4502 |
+|Ollie Pickering	| 3	   | 0.299	| 0.3445 |
+|Harry Davis	    | 3	   | 0.350	| 0.2746 |
+|Lave Cross	        | 3	   | 0.310	| 0.3285 |
+|Socks Seybold	    | 3	   | 0.351	| 0.2734 |
+|Danny Murphy	    | 3	   | 0.320	| 0.3144 |
+|Monte Cross	    | 3	   | 0.266	| 0.3955 |
+|Ossee Schrecongost	| 3	   | 0.199	| 0.5139 |
+|Rube Waddell	    | 3	   | 0.164	| 0.5843 |
 
 As we previously stated, this probability only refers to the chances this particular lineup fails to reach base successfully, not accounting for the pitcher's skill. To use the Bradley-Terry model, Young's POBP must also be calculated. In 1904, Young recorded a POBP of 0.251. The probability, therfore, that he retires 27 straight batters that year is (1-0.251)^27. However, this doesn’t take into account the lineup faced. This probability would be the same for every game Young pitched that year. The probability a pitcher does not allow a base runner (PWINS) was then calculated using the Bradley-Terry model (5):
 
@@ -71,18 +69,18 @@ Applying PWINS to Cy Young’s game, the updated probabilities for each batter a
 
 #### Table 2: Probability batter does not reach base using PWINS
 
-|Lineup	            |AB	   |PWINS	|P(X = 0)  |
-|-------------------|------|--------|----------|
-|Topsy Hartsel	    | 1	   | 0.6834	| 0.683394 |
-|Danny Hoffman	    | 2	   | 0.6951	| 0.434413 |
-|Ollie Pickering	| 3	   | 0.7149	| 0.365058 |
-|Harry Davis	    | 3	   | 0.6818	| 0.316557 |
-|Lave Cross	        | 3	   | 0.7073	| 0.353800 |
-|Socks Seybold	    | 3	   | 0.6811	| 0.315695 |
-|Danny Murphy	    | 3	   | 0.7007	| 0.343963 |
-|Monte Cross	    | 3	   | 0.7379	| 0.401835 |
-|Ossee Schrecongost	| 3	   | 0.7901	| 0.493197 |
-|Rube Waddell	    | 3	   | 0.8204	| 0.552120 |
+|Lineup	            |AB	   |PWINS	|P(X = 0)|
+|-------------------|------|--------|--------|
+|Topsy Hartsel	    | 1	   | 0.6834	| 0.6834 |
+|Danny Hoffman	    | 2	   | 0.6951	| 0.4344 |
+|Ollie Pickering	| 3	   | 0.7149	| 0.3651 |
+|Harry Davis	    | 3	   | 0.6818	| 0.3166 |
+|Lave Cross	        | 3	   | 0.7073	| 0.3538 |
+|Socks Seybold	    | 3	   | 0.6811	| 0.3157 |
+|Danny Murphy	    | 3	   | 0.7007	| 0.3440 |
+|Monte Cross	    | 3	   | 0.7379	| 0.4018 |
+|Ossee Schrecongost	| 3	   | 0.7901	| 0.4932 |
+|Rube Waddell	    | 3	   | 0.8204	| 0.5521 |
 
 The PWINS for all 21 perfect game pitchers was calculated using R and is plotted in the graph above. Of these gems, the least likely came from Charlie Robertson in 1922 (0.000009). Robertson’s perfect game illustrates the need to account for both the lineup and the pitcher's ability. During his perfect game, he faced a Detroit Tigers team with a mean OBP of 0.3585, with 10 of 11 batters having reaching base at 0.300 or better, including baseball’s all-time career batting average leader Ty Cobb.  Couple that with Robertson's POBP which ranked second worst among the 21 pitchers and it is clear why his was the unlikliest of an already unlikely event. 
 
@@ -93,10 +91,6 @@ The reader might also be wondering whether this analysis will cover games in whi
 There is one more name to put on the shelf as well: Armando Galarraga. Unfortunately, his perfect game is not recognized by MLB due to circumstances even more unfortunate than either Haddix or Martinez. As such, Gallaraga probably deserves an article all to himself.
 
 Our first article in the series of Perfection Ranked will include the most likely perfect games, ranked 16-21, leading off with Cy Young’s perfect game in 1904 which serves as both the first thrown and likeliest perfect game out of the group. We will continue to countdown to the least likely of all perfect games, Charlie Robertson’s most unlikely bid at perfection in late April 1922.
-
-Look for that article next some time next week. 
-
-Also... Baseball is back! Even though there will be a lot of nuance we aren't used to, some of which was mentioned in my [previous article](https://www.maljames.com/post/mlb-division-realignment/), there is still a title to win. As new Cubs skipper, David Ross said, "If they're passing out a trophy, I want it". I will be watching intently as the 60 game season unfolds in the coming months. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ### References
