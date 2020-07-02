@@ -6,7 +6,7 @@ draft: false
 --- 
 ![Perfect Game Probabilities](https://i.imgur.com/g7y7biY.png)
 
-#### by Mallet James, Kyle Kroboth, and Andy Wiesner
+#### by Mallet James and Kyle Kroboth
 
 Since 1900 approximately 200,000 major league baseball games have been played including playoffs through the 2019 season.  During that time, 21 perfect games have been thrown, an incredibly rare feat. Pitchers with a perfect game on their resume range from the unqualified legends – Sandy Koufax and Cy Young – to the otherwise anonymous – Len Barker, Philip Humber, and Dallas Braden. 
 
@@ -91,6 +91,8 @@ The reader might also be wondering whether this analysis will cover games in whi
 There is one more name to put on the shelf as well: Armando Galarraga. Unfortunately, his perfect game is not recognized by MLB due to circumstances even more unfortunate than either Haddix or Martinez. As such, Gallaraga probably deserves an article all to himself.
 
 Our first article in the series of Perfection Ranked will include the most likely perfect games, ranked 16-21, leading off with Cy Young’s perfect game in 1904 which serves as both the first thrown and likeliest perfect game out of the group. We will continue to countdown to the least likely of all perfect games, Charlie Robertson’s most unlikely bid at perfection in late April 1922.
+
+*Special thanks to Andy Wiesner for the guidance on statistics for the article.*
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ### References
