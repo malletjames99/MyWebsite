@@ -8,7 +8,7 @@ draft: false
 
 #### by Mallet James and Kyle Kroboth
 
-In our first installment of a 4-part series where we attempt to rank all 21 perfect games in the modern era using a numbers only appraoch, we take a closer look at the most likely of the perfect games thrown in Major League Baseball's modern era. Greats like Cy Young and Addie Joss fall in the section along with lesser known names like Len Barker. We introduced our ranking method using Bradley-Terry in our introductory post [here](https://www.maljames.com/post/perfect-games/).
+In the first installment of a 4-part series where we attempt to rank all 21 perfect games in the modern era using a numbers only appraoch, we take a closer look at the most likely of the perfect games thrown in Major League Baseball since 1900. Greats like Cy Young and Addie Joss fall in the section along with lesser known names like Len Barker. We introduced our ranking method using Bradley-Terry in our introductory post [here](https://www.maljames.com/post/perfect-games/).
 
 &nbsp;
 
