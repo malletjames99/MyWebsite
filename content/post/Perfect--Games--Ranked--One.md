@@ -12,7 +12,7 @@ In the first installment of a 4-part series where we attempt to rank all 21 perf
 
 &nbsp;
 
-### 21. Cy Young vs. Philadelphia Athletics B-T Probability: 160 in 100,000
+### 21. Cy Young vs. Philadelphia Athletics B-T Probability: 16 in 100,000
 
 ![Perfect Game Young](https://i.imgur.com/PdTpo2V.png)
 
@@ -22,7 +22,7 @@ Out of any pitcher on our list this one probably makes the most sense. He was an
 
 Young’s POBP of .251 is one of the best out of pitchers on this list and he faced a lineup that featured 3 batters with deplorable sub-.200 OBPs. There were a few formidable opponents in the lineup that day for the Philadelphia Athletics team he faced, but it didn’t prove to be enough to fend off perfection. 37 years old at the time, Cy Young is still the oldest pitcher in MLB history to have thrown a perfect game. Unlike some others in the perfect game club, he will not be even remotely remembered for just having thrown a perfect game due to the many other accolades earned in his career. He holds the title of most likely perfect game thrown on our list, certainly not a bad place to be.
 
-### 20. Addie Joss vs. Chicago White Sox B-T Probability: 155 in 100,000
+### 20. Addie Joss vs. Chicago White Sox B-T Probability: 15.5 in 100,000
 
 ![Perfect Game Joss](https://i.imgur.com/mp9hrOC.png)
 
@@ -32,7 +32,7 @@ Joss was a force on the mound, posting one of the great major league pitching ca
 
 Joss blanked a Chicago White Sox team that was fighting for a World Series berth at the end of the regular season. Looking back at their lineup that day, it doesn’t seem like they were much of a World Series team given that their lead offensive threat, Patsy Dougherty, was batting .285 on the year with an OBP of .369 and there were many guys in the lineup with sub-.300 OBPs even this late into the season in October. Joss only needed 74 pitches to get 27 outs that day, a record low amount of pitches among perfect games thrown. He only needed 3 strikeouts through 9 innings so it is safe to say he had his defense working behind him that day. Joss is the leader in POBP out of all pitchers having thrown a perfect game at a mark of .218, a staggering number that, when coupled with facing a weak lineup makes Joss’s perfect game quite likely relative to many of the perfect games thrown all time.
 
-### 19. Len Barker vs. Toronto Blue Jays B-T Probability: 132 in 100,000
+### 19. Len Barker vs. Toronto Blue Jays B-T Probability: 13.2 in 100,000
 
 ![Perfect Game Barker](https://i.imgur.com/fNc32w0.png)
 
@@ -46,7 +46,7 @@ Barker started 1981 with a 3-1 record, continuing his success from the prior yea
 
 The perfect game was without a doubt the high point of Barker’s MLB career. He was an All-Star in 1981, put up a solid year in 1982, and then was traded to the Braves mid-way through 1983 and never really had the same success again. He signed a very large contract with the Braves after the 1983 season but the big man never found a way to dominate major league hitters with his power fastball game again. The peak of his career featured some strong performances, unfortunately it did not stick around for very long.
 
-### 18. Sandy Koufax vs. Chicago Cubs B-T Probability: 120 in 100,000
+### 18. Sandy Koufax vs. Chicago Cubs B-T Probability: 12 in 100,000
 
 ![Perfect Game Koufax](https://i.imgur.com/NAoUqZz.png)
 
@@ -58,7 +58,7 @@ Two Cubs starters, leadoff center fielder Don Young and left fielder Byron Brown
 
 Hendley and Kuenn weren’t Koufax’s only strikeout victims that night. In fact, 10 out of the 11 batters that stepped into the batter’s box struck out at least once. Koufax’s 14 strikeouts are a record for a perfect game, and he is the only pitcher to strike out at least one batter in each inning of his perfect game.
 
-### 17. Felix Hernandez vs. Tampa Bay Rays B-T Probability: 107 in 100,000
+### 17. Felix Hernandez vs. Tampa Bay Rays B-T Probability: 10.7 in 100,000
 
 ![Perfect Game Hernandez](https://i.imgur.com/joE2USY.png)
 
@@ -70,7 +70,7 @@ Probably the most interesting note from this game is that it was the third time 
 
 A little bit about Felix, he had a POBP of .295, (allowed a runner on base about 29.5% of ABs) in 2012 which is about average among pitchers having thrown a perfect game, still a strong mark though among all major league pitchers. He struck out 12 in the game, the first 11 all swinging and then the game ended with a strikeout looking from Sean Rodriguez. Hernandez faced a Rays lineup with an OBP of .320 that year, slightly above the average .312 OBP among lineups that have seen perfect games. All in all, Felix’s bid was fairly average in the scope of perfect games, obviously any of the 21 is an extremely rare feat but nothing too out of the ordinary in this one. 27 up, 27 down, and King Felix picked up another spectacular honor in what has been a very nice career.
 
-### 16. Tom Browning vs. Los Angeles Dodgers B-T Probability: 104 in 100,000
+### 16. Tom Browning vs. Los Angeles Dodgers B-T Probability: 10.4 in 100,000
 
 ![Perfect Game Browning](https://i.imgur.com/CDvyAMI.png)
 
