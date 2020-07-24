@@ -1,7 +1,7 @@
 ---
 title: "Perfection Ranked: Greatest Perfect Games #11-15"
 description: "An In-Depth look at Perfect Games with mid-tier likelihood according to Bradley-Terry"
-date: 2020-07-23T20:00:00-04:00
+date: 2020-07-23T19:00:00-04:00
 draft: false
 ---
 ![Perfect Game Collage 2](https://i.imgur.com/3F3TZYl.png)
