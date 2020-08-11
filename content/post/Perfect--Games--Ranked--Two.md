@@ -8,7 +8,7 @@ draft: false
 
 #### by Mallet James and Kyle Kroboth
 
-In now our second installment of a 4-part series where we attempt to rank all 21 perfect games in the modern era using a numbers only approach, we take a closer look at some of the middle tier likelihood perfect games. Some terrific names and stories are featured in this section including the legendary Roy Halladay, David Wells, and Jim Bunning. We introduced our ranking method using Bradley-Terry in our introductory post [here](https://www.maljames.com/post/perfect-games/).
+In now our second installment of a 4-part series where we attempt to rank all 21 perfect games in the modern era using a numbers only approach, we take a closer look at some of the middle tier likelihood perfect games. Some terrific names and stories are featured in this section including the legendary Roy Halladay, David Wells, and Jim Bunning. We introduced our ranking method using Bradley-Terry in our [introductory post](https://www.maljames.com/post/perfect-games/).
 
 &nbsp;
 
