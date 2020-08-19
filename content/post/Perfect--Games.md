@@ -3,6 +3,8 @@ title: "Perfection Ranked: Greatest Perfect Games Introduction"
 description: "Ranking the likelihood of MLB perfect games using the Bradley-Terry method"
 date: 2020-06-30T21:40:48-04:00
 draft: false
+categories: Baseball
+series: Perfect Games Ranked
 --- 
 ![Perfect Game Probabilities](https://i.imgur.com/g7y7biY.png)
 
