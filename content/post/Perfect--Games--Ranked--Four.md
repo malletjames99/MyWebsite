@@ -62,11 +62,13 @@ Evan Longoria and Carl Crawford still had nice seasons in 2009, both finishing i
 You might expect the number two pitcher on this list to be ineffective or inexperienced, but that was not the case for Buehrle. In fact, Buehrle was in the middle of his tenth out of sixteen seasons and only nine days removed from pitching the third inning of the MLB All-Star Game. He finished the season with an ERA of 3.84: not an elite number, but good enough to be a solid number two or three in a rotation. What really drives Buehrle down the list is his .311 POBP. That’s not a bad number by any stretch, but it ranks 16th out of the 21 pitchers to throw a perfect game, a testament to how good most perfect game pitchers are.
 
 
-### 1. Charlie Robertson vs. B-T Probability: 0.9 in 100,000
+### 1. Charlie Robertson vs. Detroit Tigers B-T Probability: 0.9 in 100,000
 
 ![Perfect Game Robertson](https://i.imgur.com/so9PvVG.png)
 
+In the most unlikely perfect game of all time Charlie Robertson of the Chicago White Sox shutout the Detroit Tigers on April 30th, 1922 at Navin Field in Detroit.
 
+We've talked about POBP and OBP quite a lot throughout the perfect games ranked series and how important it is to consider both sides of the game when considering what truly is a standout perfect game. The 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ### References
 Baseball Reference. Retrieved from https://www.baseball-reference.com/

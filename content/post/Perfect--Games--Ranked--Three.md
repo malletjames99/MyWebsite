@@ -67,7 +67,7 @@ The Dodgers lineup that day was both peculiar and extremely solid at the same ti
 Interesting lineup names aside, Dennis Martinez made quick work of the Dodgers only striking out 4 but retiring all 27 batters using just 96 pitches. Martinez led the league in ERA in 1991 and only gave up 9 home runs all year in 31 games started. His perfect game is a stellar achievement in what was a career year for the Nicaraguan-born Expo.
 
 
-### 6. Phillip Humber vs. B-T Probability: 4.6 in 100,000
+### 6. Phillip Humber vs. Seattle Mariners B-T Probability: 4.6 in 100,000
 
 ![Perfect Game Humber](https://i.imgur.com/so9PvVG.png)
 
