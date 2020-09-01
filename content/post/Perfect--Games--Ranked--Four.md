@@ -3,6 +3,8 @@ title: "Perfection Ranked: Greatest Perfect Games #1-5"
 description: "Finishing our series and taking an in-depth look at the most unlikely Perfect Games according to Bradley-Terry"
 date: 2020-08-31T9:00:00-04:00
 draft: false
+categories: Baseball
+series: Perfect Games Ranked
 ---
 ![Perfect Game Collage 4](https://i.imgur.com/UBSE1zu.png)
 
