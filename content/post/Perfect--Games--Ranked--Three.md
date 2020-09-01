@@ -1,6 +1,6 @@
 ---
 title: "Perfection Ranked: Greatest Perfect Games #6-10"
-description: "An In-Depth look at Perfect Games with low to mid-tier likelihood according to Bradley-Terry"
+description: "An in-depth look at Perfect Games with low to mid-tier likelihood according to Bradley-Terry"
 date: 2020-08-19T9:00:00-04:00
 draft: false
 categories: Baseball

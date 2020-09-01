@@ -1,6 +1,6 @@
 ---
 title: "Perfection Ranked: Greatest Perfect Games #16-21"
-description: "An In-Depth look at Perfect Games with the highest likelihood according to Bradley-Terry"
+description: "An in-depth look at Perfect Games with the highest likelihood according to Bradley-Terry"
 date: 2020-07-10T11:40:48-04:00
 draft: false
 categories: Baseball
