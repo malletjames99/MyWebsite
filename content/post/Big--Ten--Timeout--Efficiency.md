@@ -6,7 +6,7 @@ draft: false
 categories: Basketball
 --- 
 
-## Big Ten Men's Basketball Perfomance Out of Elected Timeouts in the 2020 Season
+## Big Ten Men's Basketball Performance Out of Elected Timeouts in the 2020 Season
 
 ![Efficiency Chart](https://i.imgur.com/V7KoRd6.png)
 
