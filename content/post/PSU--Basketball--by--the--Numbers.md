@@ -2,7 +2,7 @@
 title: "Penn State Basketball: Notes from the Past 20 Years by the Numbers"
 description: "Taking an analytical look back at the last 20 years of Penn State Basketball as it enters a new era."
 date: 2020-11-27T9:00:00-04:00
-draft: true
+draft: false
 categories: Basketball
 ---
 ![PSU KP Rankings](https://i.imgur.com/M9YX9Qh.png)
