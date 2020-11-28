@@ -20,7 +20,7 @@ As Adjusted Tempo applies to Penn State teams, we see an interesting trend that,
 
 The parabolic nature of the plot is what struck me right away as it shows the clear difference in the philosophy of each Penn State head coach and how it progressed over each of their tenures. When you have your guys, it makes it a lot easier to implement your game plan, that’s a clear trend in at least the past two coaching eras. DeChellis has always been most comfortable slowing things down and continued to do so throughout his time at Penn State. Now in his 10th season at the Naval Academy he had one of the slowest tempo teams in the nation this past season, ranking 351st out of 353 Division 1 teams with 62.5 possessions a game. Coach Chambers started relatively slow with the personnel that DeChellis left to him but consistently moved the tempo forward in his time with the Nittany Lions.
 
-
+![PSU KP Tempo](https://i.imgur.com/GmB1ugR.png)
 
 Now we can take a shot at answering the question that seems like the most popular one to tackle. You can judge a coach by wins, tournament appearances, etc. all of which are fairly similar among each of the Penn State coaches in the past 20 years but what head coach truly did give us the most successful basketball teams?
 
@@ -30,16 +30,20 @@ The combination of each at an equivalently above average rate did not produce th
 
 Apart from trying to figure the best team or best coach out of the 3 during their time at Penn State there are some other interesting trends in this plot. Chambers and Dunn coached teams were much better on the defensive end of the floor while Dechellis’s teams were narrowly better than both Chambers and Dunn teams from an offensive efficiency standpoint. Ed Dechellis also had the worst two teams of any coach during the KenPom data collection era, mostly not his fault due to the team he was tasked with rebuilding when he took over, but worth mentioning as we move forward. Chambers had a fair bit more to work with when he took over the program in 2012 but the seasons where Penn State was arguably the worst team in all of top-tier conference basketball should be taken into account when considering each of the coaching eras.
 
+![PSU KP Efficiency](https://i.imgur.com/aIHPj9U.png)
+
 Moving on from offensive and defensive efficiency there are some more specific statistics to take a look at from each team and coaching era. The first that was an interesting one to me was 3-Point percentage, both in how each coaches’ teams shot the three and defended the three. DeChellis coached teams own the first quadrant where they shot an above average three-point clip but also gave up a higher three-point percentage than average in comparison to all Penn State teams. Chambers’ teams, while shooting a lot of threes did not shoot them entirely well, all of Chambers coached teams had below average three-point shooting percentage apart from 2018 which happens to be the best three-point shooting year in all of the KenPom data for Penn State… Thank you Tony and Shep. Dunn probably wins this category in terms of the data we have as his best teams were above average at both shooting and defending the three. His two worst teams were below average at both but not enough to overshadow what was a 7th best in the nation, 29.7% three-point percentage allowed to opponents in 2000.
 
-
+![PSU KP Three Point](https://i.imgur.com/gCEPdEY.png)
 
 Next, a very important area of basketball that can easily be forgotten about is offensive rebounding. Offensive rebounding percentage is one of Dean Oliver’s four factors and plays a key role when evaluating the success of a basketball team. There is a pretty even split between each of the coaching eras in terms of offensive rebounding percentage but one of the defining features of Coach Chambers’ time at Penn State was his teams’ ability to keep opponents off the offensive glass. No second chance looks for the opposition means guards like Tim Frazier and Jamari Wheeler can get the ball and turn an opponent’s miss into offensive at the other end of the floor, it is a key area where Chambers coached teams have an edge on both DeChellis and Dunn teams, though DeChellis’s best teams also performed quite well in keeping opponents away from offensive boards. All Chambers coached teams held opponents to at least a below average (31.02) offensive rebounding percentage.
 
-
+![PSU KP Offensive Rebounding](https://i.imgur.com/W3GlLC1.png)
 
 One more metric to take a look at when considering the performance of Penn State basketball teams over the past 24 years is free throw rate. This is another one of Dean Oliver’s four factors and basically quantifies a team’s ability to get to the free throw line, one of the most desirable results of an offensive possession. On the left you can see, much like offensive rebounding percentage, each coach had their own fairly equal share of teams that could get to the free throw line and teams failed to do so. What stands out is the ability of DeChellis teams to keep opponents off the foul line, each of his teams were above average in comparison to other Penn State teams at keeping opponents off the line. The bar chart shows how DeChellis teams’ defensive free throw rate stacked up against Dunn and Chambers coached teams. Well ahead of each of them at only 27.1% or about 1 free throw allowed for every 4 opponent attempted shots, DeChellis’s teams kept opponents off the line but it makes one wonder what kind of shots were given up at the expense of not fouling as DeChellis teams were the least efficient defensively out of the three coaches. 
 
+![PSU KP Free Throw Rate](https://i.imgur.com/cWvUcqs.png)
 
+![PSU KP Def Free Throw Rate](https://i.imgur.com/ywnSppL.png)
 
 While there is not a clear-cut number 1, most successful coach according the numbers since KenPom began tracking in 1997. Between Jerry Dunn, Ed DeChellis, and Pat Chambers there have been some very fun teams and distinguishing features that define each era of Penn State basketball. The climb continues.
