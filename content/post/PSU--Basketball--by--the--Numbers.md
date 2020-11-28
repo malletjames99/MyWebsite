@@ -5,7 +5,7 @@ date: 2020-11-27T9:00:00-04:00
 draft: false
 categories: Basketball
 ---
-![PSU KP Rankings](https://i.imgur.com/M9YX9Qh.png)
+![PSU KP Rankings](https://i.imgur.com/VtOheXe.png)
 
 #### by Mallet James
 
