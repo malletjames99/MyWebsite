@@ -54,3 +54,9 @@ The bar chart shows how DeChellis teams’ defensive free throw rate stacked up 
 While there is not a clear-cut number 1, most successful coach according the numbers since KenPom began tracking in 1997. Between Jerry Dunn, Ed DeChellis, and Pat Chambers there have been some very fun teams and distinguishing features that define each era of Penn State basketball.
 
 The Climb continues.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+### References
+
+All data used for this post from kenpom.com
