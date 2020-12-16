@@ -145,15 +145,15 @@ Pitcher injury prediction is a field that has many areas for more research to be
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ### References
-Statcast, \emph{https://baseballsavant.mlb.com/statcast\_search}, Accessed: September 13, 2020.
+Statcast, https://baseballsavant.mlb.com/statcast\_search, Accessed: September 13, 2020.
 
-Chalmers PN, Erickson BJ, Ball B, Romeo AA, Verma NN. Fastball Pitch Velocity Helps Predict Ulnar Collateral Ligament Reconstruction in Major League Baseball Pitchers. \emph{The American Journal of Sports Medicine}. 2016;44(8):2130-2135. doi:10.1177/0363546516634305
+Chalmers PN, Erickson BJ, Ball B, Romeo AA, Verma NN. Fastball Pitch Velocity Helps Predict Ulnar Collateral Ligament Reconstruction in Major League Baseball Pitchers. The American Journal of Sports Medicine. 2016;44(8):2130-2135. doi:10.1177/0363546516634305
 
 Erickson, BJ, Chalmers, PN, Bush-Joseph, CA, Romeo, AA (2016). Predicting and preventing injury in Major League Baseball. \emph{Am J Orthop}, 45(3), 152-156.
 
-Spotrac, \emph{https://www.spotrac.com/mlb/disabled-list}, Accessed: October 1, 2020.
+Spotrac, https://www.spotrac.com/mlb/disabled-list, Accessed: October 1, 2020.
 
-FanGraphs, \emph{https://www.fangraphs.com}, Accessed: October 3, 2020.
+FanGraphs, https://www.fangraphs.com, Accessed: October 3, 2020.
 
 Davis, K. (2019, March 11). Predicting Injuries in MLB Pitchers. Retrieved from https://towardsdatascience.com/predicting-injuries-in-mlb-pitchers-c2e133deca39
 
