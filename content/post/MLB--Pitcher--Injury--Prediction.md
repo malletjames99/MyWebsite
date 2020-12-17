@@ -6,6 +6,8 @@ draft: false
 categories: Baseball
 ---
 
+#### by Mallet James and Drew Bennison
+
 ### Abstract
 At any level of baseball, including the major leagues, upper body pitcher injuries can derail a team’s season. A major league team’s pitching staff may be headlined by a 5+ wins above replacement rated ace pitcher and if he is out for an extended period of time, this hurts not only his chances at competing at a high level but also the performance of his team as a whole. Predicting pitcher injuries is a complicated task, but with the vast amount of data that is collected and used currently to analyze MLB pitcher performance there has to be a better way to combat upper body and arm injuries and keep major league pitchers out of potential harm. Past research has focused on injury prediction using pitcher fastball velocity, age, and specific pitch repertoires. With the wide range of data points that MLB Statcast data tracking has collected since 2015, injury prediction can be conducted at a much finer level. In addition to tracking the speed of pitches over time that could signal injury we have the opportunity to look at many other features that relate to the result of a pitch. These features include horizontal and vertical movement, release point of a pitch, pitch location in and out of the strike zone and many more that have not been available in previous research endeavors. With this data we have been able to train a machine learning model that is able to help identify which pitchers are at a higher risk of developing an injury within the weeks following a start. Managers and team analysts alike can use this model to monitor their pitchers and better evaluate their players' injury risk to prevent injuries, prolong player careers, and win more games.
 
@@ -13,8 +15,6 @@ At any level of baseball, including the major leagues, upper body pitcher injuri
 
 ![Clevinger](https://i.imgur.com/uchd1kA.jpg)
 San Diego Padre Mike Clevinger leaving a game late in the 2020 season with an elbow injury, preventing him from playoff competition.
-
-#### by Mallet James and Drew Bennison
 
 ### Introduction
 The advancement of data tracking and the widespread use of Statcast information across Major League Baseball (MLB) has changed the game in many ways. Three to five terabytes of data are collected in every MLB game, and that number is on the rise. Two of the most notable ways Statcast has influenced the game include how front offices decide who to acquire and maintain as an organization and also how players themselves decide to structure their own development. The number of data analysts teams employ in their front office only continues to grow, and though their work isn't public, it is assumed that they utilize Statcast data in their analyses because of the level of detail it provides them. For every pitch thrown, detailed information is recorded about the release point, velocity of the ball, spin rates, as well as the location of every player on the field at the time. In the decision making process of the front office staff and at the player level, injuries play a major role in discussion of player acquisition and the potential impact that a player can have. Injuries can dissuade teams from signing players and severely hurt a player's future value. The focus of our study will be to try to determine if with Statcast data we can accurately predict pitcher injuries and try to spot the signs of a physical ailment before an injury occurs and time on the Injured List is required. 
