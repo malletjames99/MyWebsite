@@ -51,7 +51,7 @@ After we had injury data and our healthy and injured players defined, we needed 
 
 The plot below shows a visualization of the type of information that is available in the Spotrac injury data. The bar graph displays the number of upper body pitcher injuries on each team in from 2015-2020, along with whether the pitcher was on the shorter 10/15-day injured list (grey) or the longer, 60-day injured list (blue).
 
-![Injury Plot](https://i.imgur.com/cdYFKSn.png)
+![Injury Plot](https://i.imgur.com/3tmhsFA.png)
 
 ### Feature Engineering
 With the combined Statcast and injured list data, the next step was to create and select features that were important and predictive of player injuries. The Statcast data returns one row for every pitch thrown in a game by the pitcher, so the size of the entire data set grows large very quickly from the data collection phase. For example, we had 21,413 player-games in our data set, so the original size of the Statcast data, assuming each pitcher throws an average of 80 pitches per game, was around 1,700,000 rows. The first step in the feature engineering phase was to aggregate all pitching stats to a per-game level bringing it back down to the 21,413 rows. Individual pitch variability is so high that a single pitch will not be predictive of an upcoming injury, but game level trends are much more likely to contain valuable information about how a pitcher is performing. The following is a sampling of the features that were created by the game level.
