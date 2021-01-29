@@ -141,7 +141,7 @@ As shown in this paper, a machine learning model that can predict pitcher injuri
 
 With this work as a starting point, we believe that both of us and other researchers can expand the capability of pitcher injury prediction based on what we have already learned. We outlined future research directions such as incorporating off-speed pitch statistics and consulting with baseball team physicians about key factors that cause injury and how to better use the data at hand. 
 
-Pitcher injury prediction is a field that has many areas for more research to be done and we hope this paper has shown that it is an area where better predictions can be made and that time and energy will be well spent. Teams that take advantage of this model and future ones will be at a competitive advantage because they will be able to keep their pitchers healthier and have them spend less time on the injured list. Early intervention for injuries is incredibly important and this paper has shown that that can be successfully done using data provided by MLB Statcast.
+Pitcher injury prediction is a field that has many areas for more research to be done and we hope this paper has shown that it is an area where better predictions can be made and that time and energy will be well spent. Teams that take advantage of this model will be at a competitive advantage because they will be able to keep their pitchers healthier and have them spend less time on the injured list. Early intervention for injuries is incredibly important and this paper has shown that that can be successfully done using data provided by MLB Statcast.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ### References
