@@ -31,7 +31,7 @@ I want to take a look at the hitting approaches that have defined each team in t
 
 ## Phillies
 
-![Phillies Approach](https://i.imgur.com/x8rTCwF.png)
+![Phillies Approach](https://i.imgur.com/GaHva3N.png)
 
 #### Key Takeaways
 
