@@ -2,6 +2,7 @@ baseURL = ""
 title = "Mallet James"
 theme = "erblog"
 paginate = 3
+dateFormat = "02 Jan 2006"
 googleAnalytics = "UA-167804017-1"
 languageCode = "en"
 DefaultContentLanguage = "en"
