@@ -1,7 +1,7 @@
 ---
 title: "MLB NL East Division 2021 Batter Approach Breakdown"
 description: "Highlighting key tendencies of NL East batters by pitch outcome"
-date: 2021-9-15T9:00:00-04:00
+date: "2021-9-15T9:00:00-04:00"
 draft: false
 categories: Baseball
 ---
@@ -20,7 +20,7 @@ I want to take a look at the hitting approaches that have defined each team in t
 
 ![Braves Approach](https://i.imgur.com/gDuKJsl.png)
 
-####Key Takeaways
+#### Key Takeaways
 
 -Ozzie Albies and Freddie Freeman are number 2 and 3 repectively in total foul balls on the season, only Bo Bichette has more foul balls with 570 total, Eddie Rosario has a very similar approach profile to Albies and Freeman but has been much less effective in fewer plate appearances
 
@@ -33,7 +33,7 @@ I want to take a look at the hitting approaches that have defined each team in t
 
 ![Phillies Approach](https://i.imgur.com/x8rTCwF.png)
 
-####Key Takeaways
+#### Key Takeaways
 
 -Bryce Harper leads the league in xwOBA (Top 3 in xwOBA are all NL East players), he has kept pace with his 17.3 Barrel% from last season, posting a 17.1% Barrel percentage this year which is up over two points from his previous full-season high of 14.8% in 2019
 
@@ -46,7 +46,7 @@ I want to take a look at the hitting approaches that have defined each team in t
 
 ![Mets Approach](https://i.imgur.com/zrSOJWn.png)
 
-####Key Takeaways
+#### Key Takeaways
 
 -One of the main reasons I was interested in doing this analysis was to see what Javi Baez's approach distribution looks like and it does not disappoint. Javi Baez has been much better as of late, he's actually on fire with a 1.153 OPS over the last month but one thing is certain, he does not take the batter's box looking to leave the bat on his shoulder. Nearly 1/4 of all pitches that are thrown to Baez will result in a swing and miss which is astronomical, he's swung and missed 425 times this year! The only batter that comes close given a similar number of pitches seen this year is his former teammate Patrick Wisdom who swings and misses at 1/5 of the pitches he sees. Javi is one of the most exciting players in baseball, that cannot be disputed, even [when swinging and missing](https://www.youtube.com/watch?v=m0VFsihVRPQ).
 
@@ -58,7 +58,7 @@ I want to take a look at the hitting approaches that have defined each team in t
 
 ![Marlins Approach](https://i.imgur.com/vSRX0xn.png)
 
-####Key Takeaways
+#### Key Takeaways
 
 -Garrett Cooper is not a household name by any means, actually none of the Marlins batters are! With only 4 of their top 10 batters (BIP) posting xwOBA of over .300 it wouldn't seem like much of a feat to lead the Marlins in xwOBA for the year. It really hasn't required anything extraordinary for Garrett Cooper to lay claim to that title but he was having a much better season than you would think before season ending elbow surgery in July. The names around Garrett Cooper on the xwOBA leaderboard include Austin Riley, Buster Posey, Salvador Perez all guys that have been recognized for having strong seasons at the plate and deservedly so. Cooper had a .303 xBA in the shortened season last year which was top 4% in the league. He has only played more than 100 games in a season once in his short MLB career as injuries have halted much of his Major League progress but he has shown that he belongs at the highest level.
 
@@ -70,7 +70,7 @@ I want to take a look at the hitting approaches that have defined each team in t
 
 ![Nationals Approach](https://i.imgur.com/OQX27l3.png)
 
-####Key Takeaways
+#### Key Takeaways
 
 -There may not be a more beautiful approach distribution chart in the league than what we see here from Juan Soto. The 22 year-old has a Statcast hitter profile that is just about as red as any that you'll see (Top 5 Percentile in many key Statcast Metrics) paired with one of the best eyes in the league. Soto takes 65% of the pitches that are thrown to him, the only batters that take more are Daniel Vogelbach and of course Yasmani Grandal. With a Hard Hit% of 53% he is squaring the ball up at an absurd rate when he does decide to swing. He swings and misses with the likes of Nicky Lopez and Ronald Torreyes while hitting the ball as hard as Tyler O'Neill or Nelson Cruz when he does make contact. In a time of truly great young MLB stars Juan Soto is one of the best.
 
