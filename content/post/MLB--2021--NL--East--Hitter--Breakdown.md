@@ -1,7 +1,7 @@
 ---
 title: "MLB NL East Division 2021 Batter Approach Breakdown"
 description: "Highlighting key tendencies of NL East batters by pitch outcome"
-date: 2021-9-15
+date: 2021-09-15T08:03:00-05:00
 draft: false
 categories: Baseball
 ---
