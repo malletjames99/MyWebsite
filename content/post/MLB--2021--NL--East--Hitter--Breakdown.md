@@ -22,11 +22,11 @@ I want to take a look at the hitting approaches that have defined each team in t
 
 #### Key Takeaways
 
--Ozzie Albies and Freddie Freeman are number 2 and 3 repectively in total foul balls on the season, only Bo Bichette has more foul balls with 570 total, Eddie Rosario has a very similar approach profile to Albies and Freeman but has been much less effective in fewer plate appearances
+-Ozzie Albies and Freddie Freeman are number 2 and 3 repectively in total foul balls on the season, only Bo Bichette has more foul balls with 570 total, Eddie Rosario has a very similar approach profile to Albies and Freeman but has been much less effective in fewer plate appearances.
 
--Ronald Acuna Jr. has unfortunately been injured since July 10th but had one of the most productive seasons going out of any MLB batter at the plate, his selective eye paired with a 99th percentile barrel rate lends to a lethal combination at the plate and a well balanced approach profile
+-Ronald Acuna Jr. has unfortunately been injured since July 10th but had one of the most productive seasons going out of any MLB batter at the plate, his selective eye paired with a 99th percentile barrel rate lends to a lethal combination at the plate and a well balanced approach profile.
 
--Adam Duvall leads the Braves in Whiff% on all pitches at 15% which is really quite reasonable considering he also leads the Braves and all of the NL in RBIs with 99... I call myself a baseball fan and he might've been my 99th guess at NL RBI leader, a very underrated and consistent bat
+-Adam Duvall leads the Braves in Whiff% on all pitches at 15% which is really quite reasonable considering he also leads the Braves and all of the NL in RBIs with 99... I call myself a baseball fan and he might've been my 99th guess at NL RBI leader, a very underrated and consistent bat.
 
 
 ## Phillies
@@ -35,11 +35,11 @@ I want to take a look at the hitting approaches that have defined each team in t
 
 #### Key Takeaways
 
--Bryce Harper leads the league in xwOBA (Top 3 in xwOBA are all NL East players), he has kept pace with his 17.3 Barrel% from last season, posting a 17.1% Barrel percentage this year which is up over two points from his previous full-season high of 14.8% in 2019
+-Bryce Harper leads the league in xwOBA (Top 3 in xwOBA are all NL East players), he has kept pace with his 17.3 Barrel% from last season, posting a 17.1% Barrel percentage this year which is up over two points from his previous full-season high of 14.8% in 2019.
 
--Jean Segura does not swing and miss often, only 8% of all pitches he's seen this season have ended in a swing and miss, since 2015 he has been one of the most consistent batters in the league posting an xBA between .260 and .270 almost every year along with an xSLG between .390 and .400, this year he sits at .264 xBA and .392 xSLG with a few weeks left. He is behind only Bryce Harper and J.T. Realmuto this year in WAR on the Phils at 2.6
+-Jean Segura does not swing and miss often, only 8% of all pitches he's seen this season have ended in a swing and miss, since 2015 he has been one of the most consistent batters in the league posting an xBA between .260 and .270 almost every year along with an xSLG between .390 and .400, this year he sits at .264 xBA and .392 xSLG with a few weeks left. He is behind only Bryce Harper and J.T. Realmuto this year in WAR on the Phils at 2.6.
 
--Didi Gregorius has really struggled this year, he ranks in the bottom 10% of the league in all key Statcast hitting metrics and his Whiff% ranks in at the highest of his career, for a soft contact hitter he and swinging and missing far too much. His -12 run value on four-Seam fastballs is almost dead last in the MLB with only the likes of Michael A. Taylor and Harrison Bader doing less damage
+-Didi Gregorius has really struggled this year, he ranks in the bottom 10% of the league in all key Statcast hitting metrics and his Whiff% ranks in at the highest of his career, for a soft contact hitter he and swinging and missing far too much. His -12 run value on four-Seam fastballs is almost dead last in the MLB with only the likes of Michael A. Taylor and Harrison Bader doing less damage.
 
 
 ## Mets
