@@ -39,7 +39,7 @@ I want to take a look at the hitting approaches that have defined each team in t
 
 -Jean Segura does not swing and miss often, only 8% of all pitches he's seen this season have ended in a swing and miss, since 2015 he has been one of the most consistent batters in the league posting an xBA between .260 and .270 almost every year along with an xSLG between .390 and .400, this year he sits at .264 xBA and .392 xSLG with a few weeks left. He is behind only Bryce Harper and J.T. Realmuto this year in WAR on the Phils at 2.6.
 
--Didi Gregorius has really struggled this year, he ranks in the bottom 10% of the league in all key Statcast hitting metrics and his Whiff% ranks in at the highest of his career, for a soft contact hitter he and swinging and missing far too much. His -12 run value on four-Seam fastballs is almost dead last in the MLB with only the likes of Michael A. Taylor and Harrison Bader doing less damage.
+-Didi Gregorius has really struggled this year, he ranks in the bottom 10% of the league in all key Statcast hitting metrics and his Whiff% ranks in at the highest of his career, for a soft contact hitter he is swinging and missing far too much. His -12 run value on four-Seam fastballs is almost dead last in the MLB with only the likes of Michael A. Taylor and Harrison Bader doing less damage on the heater.
 
 
 ## Mets
