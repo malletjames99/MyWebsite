@@ -116,7 +116,7 @@ Tim Anderson (25)
 
 ***Top 50 long and short AB batters chosen from 225 qualified batters (Min 300 PA)***
 
-Just because the long AB batters win the OPS battle doesn't mean that being aggressive on the first pitch of an AB is a bad major league batter tactic. I think it is something that should be evaluated on a case-by-case basis and of course according to the pitcher matchup. Short AB batters found their way to more base hits but the long AB batters provided more value with a combination of power and patience.
+Just because the long AB batters win the OPS battle doesn't mean that being aggressive on the first pitch of an AB is a bad major league batter tactic. Even the long AB batters swing at the first pitch of an at-bat from time to time. I think it is something that should be evaluated on a case-by-case basis and of course according to the pitcher matchup. Short AB batters found their way to more base hits but the long AB batters provided more value with a combination of power and patience.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
