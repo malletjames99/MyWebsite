@@ -16,7 +16,7 @@ To revisit Petriello's analysis and explore the idea a little further I took a l
 
 ![Pitches Per AB](https://i.imgur.com/nzAAtgG.png)
 
-We see above that Gardner leads the way for most pitches seen on average in an AB on the year with 4.54 pitches seen on average. David Fletcher is on the completely opposite end of the spectrum, leading the way in shortest ABs on average, he saw just 3.33 pitches per AB on average throughout the 2021 season.
+Gardner likely has no business being mentioned as a candidate for late career game improvement, especially with the likes of Votto and Molina. We do see above though that Gardner leads the way for most pitches seen on average in an AB on the year with 4.54 pitches on average. David Fletcher is on the completely opposite end of the spectrum, leading the way in shortest ABs on average, he saw just 3.33 pitches per AB on average throughout the 2021 season.
 
 Who would we rather have on our lineup card for a must win game this season, the batter with the longest ABs or batter with the shortest ABs in the league? If you asked me I think without much thought I would say the batter that makes the pitcher pitch the least, David Fletcher.
 
