@@ -82,14 +82,16 @@ Before taking a look at larger groups of batters that saw many pitches and few p
 
 Now when it comes to deciding which group had greater success at the plate in 2021, we'll expand our scope to include the top 50 shortest AB on average batters v the top 50 longest AB on average batters, if we continue to allow OPS to determine our winner the award goes to... the guys who spent the longest at the plate. This is how it shakes out:
 
-#### Top 50 Longest Batter AB Averages
+#### Top 50 Longest Batter AB Lines
+
 AVG: .245
 OBP: .343
 SLG: .448
 
 OPS: .791
 
-#### Top 50 Shortest Batter AB Averages
+#### Top 50 Shortest Batter AB Lines
+
 AVG: .264
 OBP: .319
 SLG: .408
@@ -101,11 +103,13 @@ Turns out that when it comes to OPS it's not that close, the average long AB bat
 Some of the notables not in the top 10 from each group (rank pitches seen per AB in group):
 
 ####Long AB
+
 Bryce Harper (50)
 Shohei Ohtani (37)
 Kyle Schwarber (23)
 
 ####Short AB
+
 Nick Castellanos (38)
 Salvador Perez (16)
 Tim Anderson (25)
