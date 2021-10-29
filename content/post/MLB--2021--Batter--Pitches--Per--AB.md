@@ -102,13 +102,13 @@ Turns out that when it comes to OPS it's not that close, the average long AB bat
 
 Some of the notables not in the top 10 from each group (rank pitches seen per AB in group):
 
-####Long AB
+#### Long AB
 
 Bryce Harper (50)
 Shohei Ohtani (37)
 Kyle Schwarber (23)
 
-####Short AB
+#### Short AB
 
 Nick Castellanos (38)
 Salvador Perez (16)
@@ -117,3 +117,9 @@ Tim Anderson (25)
 ***Top 50 long and short AB batters chosen from 225 qualified batters (Min 300 PA)***
 
 Just because the long AB batters win the OPS battle doesn't mean that being aggressive on the first pitch of an AB is a bad major league batter tactic. I think it is something that should be evaluated on a case-by-case basis and of course according to the pitcher matchup. Short AB batters found their way to more base hits but the long AB batters provided more value with a combination of power and patience.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Data used for the average pitch AB ridgeline plot and tables in this post retrieved from statcast using the pybaseball package
+
+Statistics and other metrics from Fangraphs, Baseball Savant, and Baseball Reference
