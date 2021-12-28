@@ -13,9 +13,11 @@ Over the past few seasons, Otto Porter Jr. has played in a few situations that h
 
 ![3-Point Progression](https://i.imgur.com/gAhDvE2.jpg)
 
+
 Three-point attempts have gone up everywhere in the league since Porter's rookie season in 13-14. Porter was following that progression gradually up until this year where his 3-point attempt rate has spiked to 65% of all shots taken, up almost 20 percentage points from last season. Porter has always shot the three ball well, 40% on his career from beyond the arc, but in this low usage, space the floor role alongside Steph Curry he has had the chance to let it fly much more often relative to his other looks. 
 
 ![3-Point Attempts](https://i.imgur.com/RDgy2aB.jpg)
+
 
 After seeing the rise in Otto Porter's 3PA% I instantly wondered if he was the benefactor of a lot of open looks from the corner. In a space the floor role where less-featured players are many times tucked in the corner this would have made some sense to me but it is far from the truth. Only 22% of Porter's three point attempts have come from the corner this season, noticeably less than his early days in Washington when he took about 32% of his threes from the corner. 93% of his threes on the season have been assisted but what is most interesting is that most of them are coming from above the break. His shot profile from 3-Point range is similar to many players that rely much less on catch and shoot attempts. His teammate, Steph Curry(59% assisted), Devonte Graham(74%), Buddy Hield(82%), and Joe Ingles(76%) all have a similar 3 point profile to him in that they shoot the 3 a lot while not shooting many from the corners but for them it's done more often off the dribble.
 
@@ -26,6 +28,7 @@ When an on-ball screen is made, Steph is doubled. When he gives up the ball and 
 Porter has the fourth best [DARKO Daily Plus Minus](https://apanalytics.shinyapps.io/DARKO//_w_10aa28fa/#tab-7221-1) on the Warriors roster at this point in the season (DPM of 1.4). DPM is a measure of how much the DARKO model thinks a player impacts the score of an NBA game. In front of Porter on the Warriors' roster are Steph Curry (DPM of 5), Draymond Green (2.6), and Gary Payton II (2.1) who has been another welcomed addition to the Golden State rotation on both ends of the floor. Notice that Steph's impact on the score of the game is quite strong, no surprise. After a few fringe years, Porter has become a very important player on one of the best teams in the NBA. Granted, playing with Steph Curry and Draymond Green, rather than the Bulls and Magic rosters that Otto has played on in years past is a big step up. Someone has to be fourth in impact on the league's best team. Someone also has to knock down looks that have been given up at the expense of life being made miserable for Steph and Otto Porter has increasingly stepped up to the plate for the Warriors. 
 
 ![Otto Darko](https://i.imgur.com/KFTlPLI.jpg)
+
 
 Porter's DPM Similarity Chart up to this point in his career gives us one last look at where he has been so far. Porter, at only 28 years old, has been on a considerable DPM downturn lately which is not a great sign. What is most interesting is the players that are included with him on the chart and their level of impact progression through 500 career NBA games. If there were tiers of players to be similar to in terms of impact I would say the CJ McCollum, Steve Nash, Eric Bledsoe, Al Horford, and Derek Fisher tier for the most part, on aggregate is a tier or two above where many would put Otto Porter from his career production so far. He is beginning to show why he may belong amongst those names.
 
