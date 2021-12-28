@@ -10,11 +10,13 @@ series: Quick Hitters
 #### by Mallet James
 
 Over the past few seasons, Otto Porter Jr. has played in a few situations that have been less than optimal for him as a player. For many reasons, the main one being injury, Otto Porter has not been able to maximize his role on an NBA team since his early days in the league with the Washington Wizards. He is beginning to create a very effective role for himself on the Golden State Warriors and is contributing to the success of his team in a different way than he was with those Wizards teams in his early days.
+&nbsp;
 
 ![3-Point Progression](https://i.imgur.com/gAhDvE2.jpg)
 &nbsp;
 
 Three-point attempts have gone up everywhere in the league since Porter's rookie season in 13-14. Porter was following that progression gradually up until this year where his 3-point attempt rate has spiked to 65% of all shots taken, up almost 20 percentage points from last season. Porter has always shot the three ball well, 40% on his career from beyond the arc, but in this low usage, space the floor role alongside Steph Curry he has had the chance to let it fly much more often relative to his other looks. His 115 3-point attempts to this point in the season are his most since the 2018-19 season, he has made 46 of them, continuing to shoot right at 40% from three.
+&nbsp;
 
 ![3-Point Attempts](https://i.imgur.com/RDgy2aB.jpg)
 &nbsp;
