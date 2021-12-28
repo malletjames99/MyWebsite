@@ -2,7 +2,7 @@
 title: "Comparing Strokes Gained Performance of golfers over many PGA Tour Tournaments"
 description: "Taking a look at what separates golfers who make the cut, finish top 10, and come away with the win using SG data from 2020 PGA Tour Tournaments"
 date: 2021-10-28T08:03:00-05:00
-draft: false
+draft: true
 categories: Golf
 ---
 
