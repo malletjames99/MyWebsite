@@ -39,6 +39,26 @@ Porter's DPM Similarity Chart, up to this point in his career, gives us one last
 
 The NBA is very much a role based league, when players change teams it takes a while for them to assume the level of impact that they had for their past team. The Washington Wizard version of Otto Porter may be somewhat erased when considering his play style on the Warriors' roster today but he is starting to climb back to the level of impact that he reached in his later years with the Wizards. On a minimum contract, Otto Porter comes as a massive value to the Warriors. If he continues to progress and reaches or exceeds the peak level of performance he had with the Wizards, in the 2021-22 season, it will be a huge win for his team and all those who decided to take a chance on his play.
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
+*Update 1/14*
+
+![Otto League Progression](https://i.imgur.com/3B4cHPJ.jpg)
+
+A quick update on Porter's 3-point attempt% progression. Still a massive jump from his previous years, Porter's 3-point attempt% has slowed over the past few weeks with players like Jordan Poole, Draymond Green, and Klay Thompson returning to the Warriors' lineup. With their return, he has seen more looks inside the arc. It will be interesting to see how the Warriors offense continues to shift with Klay back in the mix and key players returning.
+
+The chart above shows the top 10 largest single player increases in 3-point attempt% since Porter entered the league in 2013.
+There are 55 guys that fall in Otto's category of playing at least 14 games in the league every year since the 2013-14 season, including this season. It is probably not the best way to qualify guys for this chart and 14 games per year as a minimum may not be enough but it allows us to take a look at how Porter has progressed along with the league and other top movers.
+
+Porter was shooting well below the league average% of threes when he came into the league in 13-14 and now is shooting well above the league average% with a nice boost this year on the Warriors offense. He now has the 7th highest increase from 2013-14 to 2021-22 in 3-point attempt% out of the 55 players that qualify.
+
+I highlighted Wayne Ellington and Blake Griffin on this chart as well since their 3-point attempt progression has been noteworthy. Griffin started his career only working inside the arc, mostly at the rim, and flipped the switch right around the time he left the Clippers for the Detroit Pistons. He shot 1.9 threes per game in his last full season with the Clippers and 7 threes per game in his first full season with the Pistons. Many use Brook Lopez as an example of a player that uprooted his game to adapt to a league that has discovered the relative value of 3-point shots. While Blake Griffin and Lopez have never been the same style of player, Griffin altered his game in much the same way as Lopez, opting for more threes. It's not that the rim attempts aren't there for each player, it is really that the additional midrange shots that were once there have been ousted for three point looks.
+
+![Griffin Lopez DARKO](https://i.imgur.com/narbFop.jpg)
+
+The change for each player has come with varying degrees of success, Lopez has thrived in his role on the Bucks offense since shooting more threes, unfortunately out indefinitely this season. Blake Griffin's impact though has fallen quite steadily ever since he incorporated more threes in his game (DARKO DPM chart above shows the progression for each player). They are each very different players so there is more to their relative success than simply the three point shooting change. It enforces again that the NBA is a very role based league, Lopez has found a role that suits him, Griffin is still searching.
+
+Then there's Wayne Ellington, the ultimate 3-point specialist. He currently leads the league in 3-point attempt% among players that have played at least 20 games, with 92% of his shots coming from three this year. In the dataset of 55 players who qualified since 2013-14 no one else comes close to Ellington's increase in 3-point attempt%. Ellington, who still was above league average in 2013-14, has increased his 3-point attempt% by 45 percentage points. His role on the Lakers is an outlier even in a league where there are many specialists who space the floor and only shoot the three. Ellington's progression is interesting when put in this context because we think of guys like Griffin and Lopez as those who have changed their game most to keep up with 3-point shooting demands. Given their play style beforehand, they definitely have changed their games most. Ellington's shooting identity though has shifted massively too, even if he was mainly known for his shooting ability 10 years ago. It's another indication that the landscape of the game in the NBA has changed a lot over the past few years even for the most jump shot-centric guys.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
