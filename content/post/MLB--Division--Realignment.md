@@ -129,7 +129,7 @@ I have settled on the following solution to minimize travel and keep the 5-team 
 
 If the focus is to cut down on travel time while maintaining the current MLB structure, nearly 100,000 miles of one-way travel could be saved when compared to the three division proposal. It is very clear that the travel burden would not be particularly spread evenly among every team; the South and the “Northwest” divisions would travel 3-4 times as much as the next lowest division but lots of potentially unnecessary travel would be saved. To increase schedule variety in this structure, limited inter-division play based on closest neighboring division teams, as in the 3 x 10 structure, could be implemented.
 
-[In a normal MLB season division opponents play each other about 76 times](https://gothamsn.com/is-it-time-to-revisit-the-mlb-playoff-structure-9ea4e801efae), teams travel to division opponents and complete the cycle of each division opponent playing each other 24 times a season. When comparing the optimized 6 x 5 division setup to the current division alignment this new setup would save in the neighborhood of 277,752 miles of division travel over the course of a standard MLB season.
+[In a normal MLB season division opponents play each other about 76 times](https://gothamsn.com/is-it-time-to-revisit-the-mlb-playoff-structure-9ea4e801efae), teams travel to division opponents and complete the cycle of each division opponent playing each other 19 times a season. When comparing the optimized 6 x 5 division setup to the current division alignment this new setup would save in the neighborhood of 277,752 miles of division travel over the course of a standard MLB season.
 
 # Methodology
 
