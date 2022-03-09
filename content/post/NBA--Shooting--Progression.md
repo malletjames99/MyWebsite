@@ -1,5 +1,5 @@
 ---
-title: "Richaun Holmes, Robin Lopez, and some of the most unique Shot Taking Trends of the last 10 NBA Seasons"
+title: "Richaun Holmes, Robin Lopez, and some of the most unique shot taking trends of the last 10 NBA Seasons"
 description: "Exploring NBA shooting progression Shiny App and highlighting the most interesting player shooting trends of the past 10 years"
 date: 2022-03-08T08:03:00-05:00
 draft: false
@@ -90,11 +90,6 @@ In an excerpt from *The Midrange Theory* when writing about the "art of the midr
 
 ## DeMar DeRozan
 
-&nbsp;
-
-![DeRozan Shooting](https://i.imgur.com/9tOgNfJ.jpg)
-&nbsp;
-
 A player who this post would be incomplete without and is the anti-Muscala, DeMar DeRozan has grabbed headlines all over the league for his scoring output this season. 
 
 His production is outstanding even without the context of where his shots have been taken from. He recently broke Wilt's record of [most games in a row with 35+ points on 50% shooting](https://twitter.com/statmuse/status/1494150671607627779?s=20&t=MoIbz8K4mLQU2ZFRAWs9Bg) (7 games).
@@ -107,6 +102,11 @@ It only took 7 games to beat the record, sure you could have a really hot few we
 DeRozan's midrange artistry has been conducted in the middle section of the court. The deep midrange that he utilizes is not anywhere below the break, his game is break you down, one on one, rise and pull, directly in front of or behind the foul line out to the elbows. DeRozan's game this season is about as plug and play as it gets, he just needs a sliver of space to operate and sometimes not even that. He has put himself directly in the conversation of best isolation scorer in the game.
 
 John Hollinger lays out all you need to know about his season in this Athletic [article](https://theathletic.com/3143728/2022/03/03/hollinger-demar-dirk-derozan-is-turning-midrange-analytics-on-its-head/). If you have a game like DeRozan's the analytics say take the midrange shot and continue shooting it. In a great piece of Hollinger's article, he explained that sure 3 is always going to be greater than 2 but when it comes to creating threes in volume, especially clean looks, it becomes much tougher. DeRozan can get pull up jumpers off all day, and while the degree of difficulty looks to be incredibly high on most of them, they continue to find the bottom of the net.
+
+&nbsp;
+
+![DeRozan Shooting](https://i.imgur.com/9tOgNfJ.jpg)
+&nbsp;
 
 When looking at DeRozan's shooting progression from 16 feet-3P over his career it looks like a line that has actively fought off the influence of the three pointer. Starting in 15-16 and then again in 17-18 it appeared that his deep midrange game was about to take the plunge and concede to the 3 like so many others. In his final year with the Raptors in 17-18, DeRozan took the most three pointers of his career with 3.6 of them attempted a game. That year has ended up being one of his worst in eFG% of his last 5, since that season he has shot 48%, 48%, 54%, 51%, 53% in eFG. His % of deep midrange 2s taken this year is the highest it's been since his 2016-17 season and there is no disputing that at least for now this is his sweet spot. 
 
