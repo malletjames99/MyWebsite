@@ -1,7 +1,7 @@
 ---
 title: "Richaun Holmes, Robin Lopez, and some of the most unique Shot Taking Trends of the last 10 NBA Seasons"
 description: "Exploring NBA shooting progression Shiny App and highlighting the most interesting player shooting trends of the past 10 years"
-date: 2022-3-8T08:03:00-05:00
+date: 2022-03-08
 draft: false
 categories: Basketball
 ---
