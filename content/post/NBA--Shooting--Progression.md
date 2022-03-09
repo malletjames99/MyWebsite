@@ -64,11 +64,6 @@ Even though it wasn't around long for Robin the deep key 2 was an interesting fe
 
 ## Mike Muscala
 
-&nbsp;
-
-![Muscala Shooting](https://i.imgur.com/Wlgve7W.jpg)
-&nbsp;
-
 This one will serve as an intermission from the quirkier shooting tendencies of our first two guys and provide a look at what might be the epitome of the greater NBA shooting evolution over the past 10 years at work in a single player.
 
 In his days at Bucknell, Mike Muscala was a lanky 6' 11" center with a smooth jumper and post game that dominated the Patriot League. Muscala was an above average shooter in college regardless of his stature but for a player his size he got off and converted jump shots outside of the paint with innate ease.
@@ -80,6 +75,11 @@ Muscala was the 44th overall pick in the 2013 NBA draft. Needless to say, there 
 That makes these type of deep draft outliers very interesting to me. What was missed by evaluators that allowed the player to drop so far or what is it about the player that has allowed him to succeed at the NBA level if his draft pick truly reflected what he was capable of contributing at that time? Playing in the Patriot League could have certainly caused some of the drop for Muscala, McCollum played in the same league and was a lottery pick but had a very different skill set. I think a lot of it was no fault of anyone doing the evaluating though, an abundance of question marks circled about how Muscala's game would fit in the NBA even though he exceled in his role at the college level.
 
 The key words there are "in his role", there was a very low chance that Muscala would ever be used in the NBA as he was at Bucknell. Muscala's size and shooting stroke weren't the only reasons he was an NBA draft pick but they definitely didn't hurt and Muscala arrived just at the right time for that specialist skillset to blossom. The league-wide three-point barrage hadn't fully taken form in 2012-13, the season before Muscala was drafted, but there was a sign of the increase to come. After three-point shooting had pretty much flatlined at 18 3s attempted per game from 07-08 to 11-12, 3s attempted per game jumped to 20.4 in 12-13. Muscala likely wasn't drafted with three-point shooting in mind but he has ended up being just about as good of a fit as anyone to move his shot back a few feet, beyond the arc.
+
+&nbsp;
+
+![Muscala Shooting](https://i.imgur.com/Wlgve7W.jpg)
+&nbsp;
 
 As you can see in the progression chart, since entering the league in 2013-14 Muscala had increased his 3-point shooting output steadily to 75% of his shots in the 2019-20 NBA season. Since then, his 3-point shooting attempt% has leveled off and stayed closer to around 65%, obviously we can't expect the steady increase to go on forever. For a guy that entered the league right around the time that the three pointer was taking off and shot almost no 3-point jumpers himself he is as good a candidate as anyone to point to as the 3-point evolution embodied in one player.
 
